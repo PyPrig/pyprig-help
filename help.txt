@@ -1,0 +1,49 @@
+PYPRIG HELP
+===========
+
+Project Name: pyprig-help
+Repository: https://github.com/joerogers329/pyprig-help
+Branch: main
+File: help.txt
+Version: 1.0.0
+
+DESCRIPTION
+-----------
+This repository provides remote data and resources for Python package integration.
+
+The files are maintained on GitHub and may be retrieved by compatible Python applications at runtime.
+
+PURPOSE
+-------
+1. Store shared data and configuration resources.
+2. Provide updated content through the main branch.
+3. Support Python package integration.
+4. Test GitHub repository downloading.
+5. Maintain resources independently of PyPI releases.
+
+REPOSITORY INFORMATION
+----------------------
+Repository Name: pyprig-help
+Default Branch: main
+Content Type: Text and resource files
+Access: Public
+
+TEST INFORMATION
+----------------
+Test ID: PYPRIG-001
+Test Status: READY
+Test Message: Hello from the pyprig-help GitHub repository!
+
+This file can be used to verify that a Python application successfully retrieves repository content from GitHub.
+
+UPDATE TEST
+-----------
+To test updates:
+
+1. Modify this file on GitHub.
+2. Commit the changes to the main branch.
+3. Run the Python application again.
+4. Verify that the downloaded content reflects the latest commit.
+
+END OF FILE
+-----------
